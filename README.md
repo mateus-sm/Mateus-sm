@@ -1,2 +1,2 @@
 # Repositório pessoal
-## Repositorio que vou utilizar para documentar diversos programas mesmo que simples, além de testar funcionalidades do github.
+## Repositorio utilizado para testes das funcionalidades do github e para documentar diversos programas mesmo que simples.
