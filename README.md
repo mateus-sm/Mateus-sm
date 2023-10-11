@@ -1,7 +1,7 @@
 # Mateus' hub
 ## Tech Student
 - ⚙️ Information Systems Student at UNOESTE - Universidade do Oeste Paulista
-- 🌱 Learing Java
+- 🌱 Learing Python
 - 🪴 Knowlege in C, HTML and CSS
 - ✉️ Email: mateus.s.maciel@hotmail.com
 
