@@ -1,7 +1,7 @@
 # Mateus' hub
 ## Tech Student
 - ⚙️ Information Systems Student at UNOESTE - University of Western São Paulo.
-- 🌱 Learning Angular.
+- 🌱 Learning Go.
 - 🪴 Knowlege in C, C#, C++, HTML, CSS, AutoHotKey v1/v2, Python, SQL, Java, Javascript, React, node.js and R.
 - ✉️ Email: mateus.s.maciel@hotmail.com
 
